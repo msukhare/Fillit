@@ -20,13 +20,13 @@
 
 ### About Tetriminos
 
-* Tetriminos is piece which you have in tetris
+* [Tetriminos](https://en.wikipedia.org/wiki/Tetromino) is piece which you have in tetris
 
 * It needs to be composed `.` and 4 `#`
 
 * The `#` must touch each other
 
-* the piece must be sperate by '\n' in the file 
+* the piece must be sperate by '\n' in the file which you give as a argument to 'fillit'
 
 some exemples of tetriminos:
 
