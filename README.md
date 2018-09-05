@@ -26,7 +26,7 @@
 
 * The `#` must touch each other
 
-* the piece must be sperate by '\n' in the file which you give as a argument to 'fillit'
+* the piece must be sperate by '\n' in the file which you give as a argument to `fillit`
 
 some exemples of tetriminos:
 
