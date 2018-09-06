@@ -4,7 +4,7 @@
 
 * Fillit is a software which place tetriminos in the smallest space possible and the fastest way.
 
-### What you need to make work fillit ?
+### What you need to make fillit work ?
 
 * gcc or clang
 
